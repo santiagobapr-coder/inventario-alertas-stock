@@ -1,0 +1,6 @@
+sku,producto,proveedor,stock_actual,dias_cobertura,dias_entrega,estado
+INV004,Huevos (cubeta x30),Granja Santa Ana,9,1.8,2,Crítico
+INV015,Servilletas (paq x500),Empaques Bogotá,6,3.0,5,Crítico
+INV007,Aguacate,Frutas y Verduras Tolima,18,1.4,1,Pedir ya
+INV002,Leche entera,Lácteos Andina,130,2.8,1,Pedir ya
+INV013,Aceite de oliva,Importadora Medi,25,8.0,6,Pedir ya
