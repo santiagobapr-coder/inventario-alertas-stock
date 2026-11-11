@@ -1,0 +1,6 @@
+proveedor,sku,producto,unidad,cantidad_pedir,costo_pedido
+Empaques Bogotá,INV015,Servilletas (paq x500),paq,24.0,204000.0
+Frutas y Verduras Tolima,INV007,Aguacate,kg,125.0,1187500.0
+Granja Santa Ana,INV004,Huevos (cubeta x30),cubeta,52.0,962000.0
+Importadora Medi,INV013,Aceite de oliva,L,25.0,900000.0
+Lácteos Andina,INV002,Leche entera,L,389.0,1400400.0
