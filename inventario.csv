@@ -1,0 +1,16 @@
+sku,producto,unidad,consumo_diario_prom,costo_unitario,stock_actual,dias_entrega,proveedor
+INV001,Café en grano,kg,6.0,38000,55,3,Cafés del Valle
+INV002,Leche entera,L,45.0,3600,130,1,Lácteos Andina
+INV003,Harina de trigo,kg,14.0,3200,520,4,Molinos SA
+INV004,Huevos (cubeta x30),cubeta,5.0,18500,9,2,Granja Santa Ana
+INV005,Mantequilla,kg,3.5,24000,30,3,Lácteos Andina
+INV006,Azúcar,kg,9.0,3800,120,4,Molinos SA
+INV007,Aguacate,kg,12.0,9500,18,1,Frutas y Verduras Tolima
+INV008,Pollo (pechuga),kg,16.0,15500,90,2,Avícola Central
+INV009,Pan de masa madre,und,60.0,2800,220,1,Panadería La Espiga
+INV010,Queso mozzarella,kg,7.0,29000,55,3,Lácteos Andina
+INV011,Tomate chonto,kg,13.0,4200,45,1,Frutas y Verduras Tolima
+INV012,Chocolate en barra,kg,2.5,31000,40,5,Cacao Real
+INV013,Aceite de oliva,L,3.0,36000,25,6,Importadora Medi
+INV014,Vasos 12 oz,und,150.0,280,2500,7,Empaques Bogotá
+INV015,Servilletas (paq x500),paq,2.0,8500,6,5,Empaques Bogotá
